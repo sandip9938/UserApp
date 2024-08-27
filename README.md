@@ -1,6 +1,6 @@
-Its a Simple Project.
+Its a Simple JAVA Project.
 
-Here Used HTML,JSP,SEVLET,DATABASE,XML.
+Here Used Technology :  HTML,JSP,SEVLET,DATABASE,XML.
 
 Features: 
 
